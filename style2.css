@@ -1,0 +1,62 @@
+
+
+
+.class5 {
+    margin: 32px 32px 8px 16px;
+    padding: 32px 16px;
+    border: 1px solid rgb(0, 0, 0);
+}
+
+.class1 {
+    color:aqua;
+    }
+    
+    .class2 {
+        color: blue;
+    }
+    
+    .class3 {
+        color: brown;
+    }
+
+.class4{
+    height: 75px;
+    width: 75px;
+    border: 1px solid black;
+}
+    .class4:hover {
+        border-color: red;
+        cursor: pointer;
+    }
+
+    h2::before {
+        content: "inainte";
+        margin-right: 8px;
+    }
+
+h2::after {
+    content:"dupa";
+   margin-left: 8px;
+}
+
+.class6 {
+height: 50px;
+width:250px;
+margin:8px;
+color: #000;
+border: 2px solid yellow;
+
+}
+
+.class7 {
+    height: 50%;
+    border: 1px solid green;
+    position: relative;
+    align-content: center;
+}
+.class8 {
+    width: 25%;
+    border:1px solid red;
+    position: relative;
+    align-content: center;
+}
