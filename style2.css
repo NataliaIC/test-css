@@ -51,12 +51,6 @@ border: 2px solid yellow;
 .class7 {
     height: 50%;
     border: 1px solid green;
-    position: relative;
-    align-content: center;
-}
-.class8 {
     width: 25%;
-    border:1px solid red;
-    position: relative;
-    align-content: center;
+margin: 0 auto;
 }
